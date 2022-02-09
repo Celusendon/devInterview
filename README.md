@@ -13,5 +13,5 @@ Custom made package for developer interviews.
 
 ---
 ## Copyright
-Copyright (c) 2022 [Celusendon](https://github.com/celusendon).
+Copyright (c) 2022 [Celusendon](https://github.com/celusendon), [Czankadi](https://github.com/Czankadi)
 All rights reserved.
