@@ -1,18 +1,18 @@
 # **Tasks - Frontend Developer Interview**
 
-## **Task Nr. 0 - "How old is the capitan?"**
+## **Task Nr. 0 - "How old is the captain?"**
 > Warm-up task
 
 ### **Statements**
-1. We have 4 vehicles.
-2. We know the type for 3, which are the following:
+1. We have four vehicles.
+2. We know the type for three, which are the following:
 	- a fishing boat
 	- an aircraft carrier
 	- an oil tanker
 
 ### **Goal**
 Solve the following:
-1. Place all of the vehicles, but they need to keep the same distance from each other.
+1. Place all vehicles, but they need to keep the same distance from each other.
 2. Name the type of the 4th vehicle.
 
 ---
@@ -20,23 +20,23 @@ Solve the following:
 > Solve a small problem.
 
 ### **Statements**
-1. Two robots are to be parachuted onto random locations on an infinite line.
+1. Two robots are parachuted onto random locations on an infinite line.
 2. When they land, their parachutes detach and remain where they are.
-3. The robots may be programmed from the following instruction set:
+3. The robots have the following instruction set:
 ```
 left --> Go left one unit 
 right --> Go right one unit 
 skipNext --> Skip next instruction if there is a parachute here.
 goto myLabel --> Go to label named "myLabel" 
 ```
-4. Each of these instruction can be prepended by an optional label.(label: instruction). 
+4. Each of these instructions can be prepended by an optional label. (label: instruction). 
 5. They both run the same code.
 
 ### **Goal**
 Your goal is to program the robots to meet (collide).
 
 ### **Test framework**
-You can use the [following](https://david-peter.de/parachuting-robots/) page to test your code.
+To test your code, you can use the [following](https://david-peter.de/parachuting-robots/) page.
 
 ---
 ## **Task Nr. 2 - Coding**
@@ -51,7 +51,7 @@ Given an input string, reverse the string word by word.
 **Statements**
 1. A word is defined as a sequence of non-space characters. 
 2. The input string does not contain leading or trailing spaces.
-3. The words are always separated by a single space.
+3. A single space always separates the words.
 
 **Example**
 ```
@@ -64,7 +64,7 @@ Return: "blue is sky the"
 
 > Can you name some HTTP methods and what they do?
 
-> What does Idempotency mean? Whitch HTTP methods are idempotent? 
+> What does Idempotency mean? Which HTTP methods are idempotent? 
 
 ---
 ## **Task Nr. 4 - TypeScript, Angular**
@@ -77,7 +77,7 @@ Return: "blue is sky the"
 
 > Can you name some built-in Angular directives? 
 
-> One of you colleague wrote this code as a temporary placeholder: 
+> One of your colleagues wrote this code as a temporary placeholder: 
 > ```ts
 > <select aria-label="Customers" class="form select customerpicker" [>(ngModel)]="maxEntries" (change)="customerChange()" *ngIf="computedTreeContent.length > 0 && !loading">
 > 	<option value=1>Paul</option>
@@ -100,4 +100,4 @@ Return: "blue is sky the"
 > 	}
 > ]
 > ```
-> Modify the code so that we are able to select all the customers we get back from the backend by their names, but use their IDs as value. 
+> Modify the code to select all the customers we get back from the backend by their names but use their IDs as value. 
