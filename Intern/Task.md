@@ -30,7 +30,7 @@ Solve the following:
 You can not cut one rope in half because the ropes are non-homogeneous, and you can not be sure how long it will burn.
 
 ---
-## **Task Nr. 3 - "Two robots with parachutes"**
+## **Task Nr. 2 - "Two robots with parachutes"**
 > Solve a small problem.
 
 ### **Statements**
@@ -53,7 +53,7 @@ Your goal is to program the robots to meet (collide).
 To test your code, you can use the [following](https://david-peter.de/parachuting-robots/) page.
 
 ---
-## **Task Nr. 4 - General Quesions**
+## **Task Nr. 3 - General Quesions**
 
 > Can you name some HTTP methods and what they do?
 
@@ -64,7 +64,7 @@ To test your code, you can use the [following](https://david-peter.de/parachutin
 > Can you name some built-in Angular directives?
 
 ---
-## **Task Nr. 5 - Coding**
+## **Task Nr. 4 - Coding**
 > Write a simple algorithm. Choose two.
 
 ### **Option Nr. 1**
