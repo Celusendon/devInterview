@@ -19,7 +19,7 @@ Solve the following:
 > Warm-up task Nr. 2
 
 ### **Statements**
-1. You have given two ropes of varying thickness both are of different density, different width, and different length.
+1. You have given two ropes of varying thickness; both have different densities, widths, and lengths.
 2. Each rope burns in 60 minutes.
 
 ### **Goal**
@@ -27,7 +27,7 @@ Solve the following:
 1. You have to measure 45 minutes using only these two ropes.
 
 ### **Restrictions**
-You can not cut one rope in half because the ropes are non-homogeneous and you can not be sure how long it will burn.
+You can not cut one rope in half because the ropes are non-homogeneous, and you can not be sure how long it will burn.
 
 ---
 ## **Task Nr. 3 - "Two robots with parachutes"**
@@ -59,7 +59,7 @@ To test your code, you can use the [following](https://david-peter.de/parachutin
 
 > What does Idempotency mean? Which HTTP methods are idempotent?
 
-> Can you name some HTTP response codes, and what they mean?
+> Can you name some HTTP response codes and what they mean?
 
 > Can you name some built-in Angular directives?
 
